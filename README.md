@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/manusri06/september_2025/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manusri06/september_2025/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/manusri06/september_2025/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->

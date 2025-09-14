@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/manusri06/september_2025/tree/master/0036-valid-sudoku) |
+| [0119-pascals-triangle-ii](https://github.com/manusri06/september_2025/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/manusri06/september_2025/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/manusri06/september_2025/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->

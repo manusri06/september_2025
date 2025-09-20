@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/manusri06/september_2025/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/manusri06/september_2025/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/september_2025/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |

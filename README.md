@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/manusri06/september_2025/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/september_2025/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manusri06/september_2025/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

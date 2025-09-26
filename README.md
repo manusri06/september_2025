@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/manusri06/september_2025/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/september_2025/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/manusri06/september_2025/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/manusri06/september_2025/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/manusri06/september_2025/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |

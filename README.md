@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manusri06/september_2025/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/september_2025/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/manusri06/september_2025/tree/master/0260-single-number-iii) |
+| [0830-largest-triangle-area](https://github.com/manusri06/september_2025/tree/master/0830-largest-triangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manusri06/september_2025/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
+| [0830-largest-triangle-area](https://github.com/manusri06/september_2025/tree/master/0830-largest-triangle-area) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/manusri06/september_2025/tree/master/0383-ransom-note) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/manusri06/september_2025/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->

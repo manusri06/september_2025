@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/manusri06/september_2025/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/manusri06/september_2025/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/manusri06/september_2025/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manusri06/september_2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manusri06/september_2025/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manusri06/september_2025/tree/master/0168-excel-sheet-column-title) |
+| [0415-add-strings](https://github.com/manusri06/september_2025/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/manusri06/september_2025/tree/master/0830-largest-triangle-area) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/manusri06/september_2025/tree/master/0830-largest-triangle-area) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/manusri06/september_2025/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
